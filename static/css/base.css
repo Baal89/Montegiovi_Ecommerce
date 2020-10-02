@@ -94,11 +94,13 @@ body {
     }
 }
 
-@media (max-width: 992px) {
-    .list-inline-item:not(:last-child)  {
-        margin: 0 !important;
-    }
+
+@media (max-width: 991px) {
     .header-container {
-        padding: 50px;
+        padding-top: 130px;
+    }
+
+     .list-inline-item:not(:last-child)  {
+        margin: 0 !important;
     }
 }
