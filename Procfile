@@ -1,0 +1,1 @@
+web: gunicorn montegiovi_ecommerce.wsgi:application
