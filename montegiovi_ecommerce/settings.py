@@ -28,7 +28,7 @@ SECRET_KEY = '=ap82)f(a247)1b3hli7k6j8s^28u2dh9h_hbnc9z8-!l^zuvl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['montegiovi-ecommerce.herokuapp.com', 'localhost']
 
 
 # Application definition
